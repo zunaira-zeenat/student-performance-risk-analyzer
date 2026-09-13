@@ -49,6 +49,7 @@ A **Gradio** interface was created where users can enter student information and
 * Performance Level
 * Risk Level
 * Personalized Suggestion
+ ![Student Performance & Risk Analyzer](screenshot 2026-09-12 232402.png) 
 
 ## 🛠️ Technologies Used
 
